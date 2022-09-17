@@ -5,7 +5,7 @@ class Rectangle {
         this.color = _color;
         this.type = typeof this
     }
-
+    
     getArea() {
         return `Area ==> ${this.width * this.height}`
     }
