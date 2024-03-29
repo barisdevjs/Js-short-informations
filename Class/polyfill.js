@@ -25,5 +25,4 @@ const d1 = new Dog('paşa')
 console.log(a1)
 console.log(d1)
 console.log(d1.makeSound())
-console.log(a1.makeSound())
 
